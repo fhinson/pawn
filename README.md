@@ -1,2 +1,2 @@
 # pawn
-Pawn is your AI assistant. Respect is optional.
+Pawn is your AI assistant.
